@@ -1,0 +1,13 @@
+* TM.TMDB.HH  CMG-3T/5T Hybrid,Guralp CMG-3T
+* DISPLACEMENT PZ (3 zeros at origin); st_FV(pb_inst=True) deletes 2 -> ACCELERATION
+* CONSTANT = A0(normalization) * sensitivity, counts/m  (matches LANTA training convention)
+ZEROS 3
+ +0.000000e+00 +0.000000e+00
+ +0.000000e+00 +0.000000e+00
+ +0.000000e+00 +0.000000e+00
+POLES 4
+ -3.141590e-02 +0.000000e+00
+ -1.979200e-01 +0.000000e+00
+ -3.141590e+02 +0.000000e+00
+ -6.283190e+02 +0.000000e+00
+CONSTANT 3.950840e+14

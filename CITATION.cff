@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "NSTRU IRIS Regional Earthquake Early-Warning System (EEWS)"
+authors:
+  - family-names: Saetang
+    given-names: Kasemsak
+    orcid: "https://orcid.org/0000-0001-8247-9884"
+    email: light2529@gmail.com
+  - family-names: Srisawat
+    given-names: Wilaiwan
+    orcid: "https://orcid.org/0000-0003-2590-7883"
+  - family-names: Phetkaew
+    given-names: Pariyakorn
+    orcid: "https://orcid.org/0009-0001-4861-5026"
+  - family-names: Limpisawad
+    given-names: Sitirug
+    orcid: "https://orcid.org/0009-0007-6814-2485"
+  - family-names: Noypha
+    given-names: Amnuay
+    orcid: "https://orcid.org/0000-0001-9827-7566"
+  - family-names: "Dürrast"
+    given-names: Helmut
+    orcid: "https://orcid.org/0000-0002-2697-057X"
+year: 2026
+license-url: "https://github.com/saetang2529/nstru-iris-regional-eews/blob/main/LICENSE"
+preferred-citation:
+  type: article
+  title: "Earthquake early warning and tsunami screening for Thailand on a single Raspberry Pi: A zero-software-cost, open-data regional system"
+  authors:
+    - family-names: Saetang
+      given-names: Kasemsak
+    - family-names: Srisawat
+      given-names: Wilaiwan
+    - family-names: Phetkaew
+      given-names: Pariyakorn
+    - family-names: Limpisawad
+      given-names: Sitirug
+    - family-names: Noypha
+      given-names: Amnuay
+    - family-names: "Dürrast"
+      given-names: Helmut
+  year: 2026
+  journal: "(submitted; journal and DOI to be added upon publication)"

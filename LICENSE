@@ -1,0 +1,34 @@
+NSTRU EEWS NON-COMMERCIAL LICENSE
+Copyright (c) 2026 Kasemsak Saetang and the NSTRU EEWS team
+(Nakhon Si Thammarat Rajabhat University, Thailand). Contact: light2529@gmail.com
+
+Permission is hereby granted, free of charge, to any person or organization obtaining a
+copy of this software, its calibration data, and associated documentation (the "Software"),
+to use, copy, modify, and redistribute the Software FOR NON-COMMERCIAL PURPOSES ONLY,
+subject to the following conditions:
+
+1. NON-COMMERCIAL USE ONLY. The Software, in whole or in part, original or modified, may
+   NOT be sold, licensed for a fee, offered as a paid service, embedded in a commercial
+   product, or otherwise used for commercial advantage or monetary compensation.
+   Permitted uses include academic research, education, and the operation of free,
+   non-profit earthquake early-warning and tsunami-screening services for the benefit
+   of the public.
+
+2. ATTRIBUTION. Redistributions and derivative works must retain this license text, this
+   copyright notice, and a citation of the associated publication (see README.md and
+   CITATION.cff).
+
+3. NO OFFICIAL-WARNING STATUS. The Software is a research system. It is NOT an official
+   earthquake or tsunami warning service, and it must not be represented as one.
+   Life-safety decisions must rely on the responsible national authorities.
+
+4. NO WARRANTY. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+   FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+   COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN
+   ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH
+   THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. IN PARTICULAR, THE AUTHORS
+   ACCEPT NO LIABILITY FOR MISSED EVENTS, FALSE ALARMS, OR ANY CONSEQUENCE OF RELIANCE
+   ON ALERTS PRODUCED BY THE SOFTWARE.
+
+For commercial licensing inquiries, contact the copyright holder.

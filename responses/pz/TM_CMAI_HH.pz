@@ -1,0 +1,14 @@
+* TM.CMAI.HH  CMG-3T,BB, Veloci
+* DISPLACEMENT PZ (3 zeros at origin); st_FV(pb_inst=True) deletes 2 -> ACCELERATION
+* CONSTANT = A0(normalization) * sensitivity, counts/m  (matches LANTA training convention)
+ZEROS 3
+ +0.000000e+00 +0.000000e+00
+ +0.000000e+00 +0.000000e+00
+ +0.000000e+00 +0.000000e+00
+POLES 5
+ -1.005310e+03 +0.000000e+00
+ -5.026550e+02 +0.000000e+00
+ -1.130970e+03 +0.000000e+00
+ -3.700800e-02 +3.700800e-02
+ -3.700800e-02 -3.700800e-02
+CONSTANT 1.714524e+18

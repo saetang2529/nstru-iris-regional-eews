@@ -1,0 +1,56 @@
+{
+  "Pd3_KA": {
+    "global_offset": 1.208,
+    "per_station": {
+      "PRAC": 1.006,
+      "CMMT": 1.226,
+      "SRDT": 1.208,
+      "MHIT": 1.292,
+      "SRIT": 1.204,
+      "PHRA": 1.27,
+      "CRAI": 0.985,
+      "SKLT": 1.208,
+      "PBKT": 1.488,
+      "CMAI": 1.208
+    },
+    "mae_global": 0.334,
+    "mae_perstation": 0.315,
+    "n": 87
+  },
+  "Pd10_WZ": {
+    "global_offset": 0.81,
+    "per_station": {
+      "PRAC": 0.853,
+      "CMMT": 0.824,
+      "SRDT": 0.81,
+      "MHIT": 0.912,
+      "SRIT": 0.706,
+      "PHRA": 0.7,
+      "CRAI": 0.541,
+      "SKLT": 0.81,
+      "PBKT": 0.966,
+      "CMAI": 0.81
+    },
+    "mae_global": 0.394,
+    "mae_perstation": 0.377,
+    "n": 87
+  },
+  "Mwp": {
+    "global_offset": 0.734,
+    "per_station": {
+      "PRAC": 0.665,
+      "CMMT": 0.657,
+      "SRDT": 0.734,
+      "MHIT": 1.019,
+      "SRIT": 0.745,
+      "PHRA": 0.58,
+      "CRAI": 0.565,
+      "SKLT": 0.734,
+      "PBKT": 0.549,
+      "CMAI": 0.734
+    },
+    "mae_global": 0.248,
+    "mae_perstation": 0.199,
+    "n": 87
+  }
+}

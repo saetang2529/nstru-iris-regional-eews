@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.log
+log_archive/
+mm_watch_seen.json
+tt_*.npz
+.seisbench/

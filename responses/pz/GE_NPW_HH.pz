@@ -1,0 +1,14 @@
+* GE.NPW.HH  GFZ:GE1993:CMG-3ESP/30/NPW/g=2
+* DISPLACEMENT PZ (3 zeros at origin); st_FV(pb_inst=True) deletes 2 -> ACCELERATION
+* CONSTANT = A0(normalization) * sensitivity, counts/m  (matches LANTA training convention)
+ZEROS 3
+ +0.000000e+00 +0.000000e+00
+ +0.000000e+00 +0.000000e+00
+ +0.000000e+00 +0.000000e+00
+POLES 5
+ -1.486000e-01 +1.486000e-01
+ -1.486000e-01 -1.486000e-01
+ -5.026500e+02 +0.000000e+00
+ -1.005000e+03 +0.000000e+00
+ -1.131000e+03 +0.000000e+00
+CONSTANT 3.571925e+17
