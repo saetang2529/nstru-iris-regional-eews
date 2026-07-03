@@ -61,13 +61,13 @@ SOURCES = {
         "seedlink": "rtserve.earthscope.org:18000",   # EarthScope
         "network": "IN", "location": "",
         "channels": ["HH?"],                  # IN.PBA Port Blair, Andaman Is (HH) — megathrust source-side
-        "stations": ["PBA"],
+        "stations": ["PBA", "SHL"],           # SHL = Shillong, NE India, Trillium 240 — NW/Sagaing azimuth (enrolled 2026-07-02 after QC; feed intermittent — tolerated by design)
     },
     "II": {
         "seedlink": "rtserve.earthscope.org:18000",
         "network": "II", "location": "00",
         "channels": ["BH?"],                  # II.KAPI Sulawesi (IDA GSN)
-        "stations": ["KAPI"],
+        "stations": ["KAPI", "PALK"],          # PALK = Sri Lanka STS-6 borehole GSN — WEST back-azimuth for the Andaman trench (enrolled 2026-07-03 after QC: 5/6 trench events picked, 0 false triggers/hr, 100% uptime)
     },
     "AU": {
         "seedlink": "rtserve.earthscope.org:18000",

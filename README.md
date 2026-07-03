@@ -38,6 +38,12 @@ and a median origin-time error of −1.9 s.
   than enough. **No large server is needed.**
 - **Dissemination is free:** alerts go to Telegram channels (unlimited subscribers, free Bot API).
 
+## Network updates since release
+
+- **2026-07-02 — IN.SHL (Shillong, NE India)** enrolled and per-station calibrated: first station west of the Sagaing fault (NW back-azimuth).
+- **2026-07-03 — II.PALK (Sri Lanka, GSN borehole)** enrolled and calibrated: first station west of the Andaman trench — enables sub-180° azimuthal gaps (fast-path alerts) for tsunami-relevant offshore events.
+- The validation results in the accompanying manuscript refer to the 49-feed configuration current at the time of writing.
+
 ## Quick start
 
 1. Install Python 3.11 and the dependencies:
