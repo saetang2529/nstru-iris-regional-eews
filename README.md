@@ -42,6 +42,7 @@ and a median origin-time error of −1.9 s.
 
 - **2026-07-02 — IN.SHL (Shillong, NE India)** enrolled and per-station calibrated: first station west of the Sagaing fault (NW back-azimuth).
 - **2026-07-03 — II.PALK (Sri Lanka, GSN borehole)** enrolled and calibrated: first station west of the Andaman trench — enables sub-180° azimuthal gaps (fast-path alerts) for tsunami-relevant offshore events.
+- **2026-07-03 — four existing stations upgraded to magnitude-capable** (GE.NPW, IC.LSA, MY.SBM, TM.CHBT) after archive-based per-station MwP calibration; the network is now 51 feeds / 47 magnitude-capable.
 - The validation results in the accompanying manuscript refer to the 49-feed configuration current at the time of writing.
 
 ## Quick start
